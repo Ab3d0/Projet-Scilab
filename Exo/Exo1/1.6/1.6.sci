@@ -4,7 +4,7 @@ genre = data(:, 3);
 
 femmes_idx = find(genre == 'Female');
 hommes_idx = find(genre == 'Male');
-other_idx = find(genre == ‘Other’);
+other_idx = find(genre == 'Other');
 
 // Calculer les moyennes pour les femmes
 salaire_femmes = data(femmes_idx, 7);
