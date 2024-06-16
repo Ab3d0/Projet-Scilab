@@ -16,6 +16,14 @@
 
 <img src="./img/1.3.PNG"></div>
 
+1.4
+
+<img src="./img/1.4.PNG"></div>
+
+
+
+
+
 1.5:
 
 | Niveau      |  Âge moyen     |  Expérience moyenne      |  Salaire moyen     | 
