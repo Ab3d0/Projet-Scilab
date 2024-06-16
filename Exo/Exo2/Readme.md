@@ -1,13 +1,13 @@
 2.1:
 
 
-<img src="./img/1.png"></div>
+<img src="./img/2.1.PNG"></div>
 
 
 
 2.2:
 
-<img src="./img/2.png"></div>
+<img src="./img/2.2.PNG"></div>
 
 
 **Question 2.3**
@@ -59,7 +59,7 @@ disp("L écart type de l âge est : " + string(std_age));
 
   **Question 2.4**
 
-
+<img src="./img/2.3.PNG"></div>
 
   **Question 2.5**
 
@@ -105,4 +105,4 @@ std_experience = stdev(experience);
   **"L écart type de l expérience est : 6.0598534"**
 
 
-
+<img src="./img/2.5.PNG"></div>
