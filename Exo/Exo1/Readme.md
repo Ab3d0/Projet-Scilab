@@ -1,3 +1,17 @@
+1.1
+
+
+
+<img src="./img/1.1.PNG"></div>
+
+
+1.2
+
+
+<img src="./img/1.2.PNG"></div>
+
+
+
 1.3:
 
 <img src="./img/1.3.PNG"></div>
