@@ -30,7 +30,7 @@ La tendance générale pour les hommes montre que les salaires augmentent de man
 
 Pour les femmes, malgré l'augmentation des salaires avec l'expérience, la plus grande dispersion des points suggère que d'autres facteurs peuvent influencer leurs salaires plus fortement que pour les hommes.
 
-**Question 5.1**
+**Question 5.2**
 
 **Pour High_School**
 
