@@ -1,6 +1,6 @@
 1.3:
 
-<img src="./img/1.png"></div>
+<img src="./img/1.1.png"></div>
 
 1.5:
 
