@@ -39,6 +39,7 @@ disp("L âge minimum est : " + string(min_age));
   **"L écart interquartile de l âge est : 10"**
 
 --> // Calcul de l'âge le plus fréquent
+
 M = tabul(age, "i");
 [max_freq, ind_max] = max(M(:, 2));
 most_frequent_age = M(ind_max, 1);
