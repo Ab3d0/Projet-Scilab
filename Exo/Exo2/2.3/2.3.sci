@@ -32,3 +32,8 @@ disp("L âge qui se répète le plus souvent est : " + string(most_frequent_age)
 // Calcul de l'écart type de l'âge
 std_age = stdev(age);
 disp("L écart type de l âge est : " + string(std_age));
+
+// Tracé de la boîte à moustaches pour l'age
+boxplot(age);
+xtitle("Boîte à moustaches de l age");
+ylabel("Age");
