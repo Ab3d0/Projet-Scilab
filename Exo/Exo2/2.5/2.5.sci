@@ -22,7 +22,7 @@ quartile_experience = quart(experience);
 disp("Les quartiles de l expérience sont : " + string(quartile_experience));
 
 interquatile_experience = iqr(experience);
-disp("L'écart interquartile de l expérience est : " + string(interquatile_experience));
+disp("L écart interquartile de l expérience est : " + string(interquatile_experience));
 
 // Calcul de l'expérience la plus fréquente
 M = tabul(experience, "i");
