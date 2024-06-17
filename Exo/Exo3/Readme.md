@@ -25,7 +25,7 @@ Nous n'avons pas réussi
 
   **Quartiles des salaires : 70000 €**
 
-  **Quartiles des salaires : 115000 € **
+  **Quartiles des salaires : 115000 €**
 
   **Quartiles des salaires : 160000 €**
 
@@ -50,55 +50,54 @@ Nous n'avons pas réussi
 <img src="./img/3.4Femme.PNG"></div>
 
 
-  "Min: 500"
+ **Min: 500**
+
+ **Max: 220000**
 
 
-  "Max: 220000"
+ **Moyenne: 107889**
+
+ **Mediane: 105000**
 
 
-  "Moyenne: 107889"
-
-  "Mediane: 105000"
-
-
-  "Quartiles: 60000" 
-  "Quartiles: 105000"
-  "Quartiles: 150000"
+**Quartiles: 60000**
+**Quartiles: 105000**
+**Quartiles: 150000**
 
 
-  "Interquartile: 90000"
+**Interquartile: 90000**
 
 
-  "Ecart type: 52723.61"
+  **Ecart type: 52723.61**
 
   **Homme**
 
   <img src="./img/3.4Homme.PNG"></div>
 
 
-"Min: 350"
+**Min: 350**
 
 
-"Max: 250000"
+**Max: 250000**
 
 
-"Moyenne: 121389.87"
+**Moyenne: 121389.87**
 
 
-"Mediane: 120000"
+**Mediane: 120000**
 
 
-"Quartiles: 75000"
+**Quartiles: 75000**
 
-"Quartiles: 120000"
+**Quartiles: 120000**
 
-"Quartiles: 170000"
-
-
-"Interquartile: 95000"
+**Quartiles: 170000**
 
 
-"Ecart type: 52092.726"
+**Interquartile: 95000**
+
+
+**Ecart type: 52092.726**
 
 **Other**
 
@@ -106,32 +105,32 @@ Nous n'avons pas réussi
 
 
 
-  "Min: 62852"
+  **Min: 62852**
 
 
-  "Max: 166109"
+  **Max: 166109**
 
 
-  "Moyenne: 125869.86"
+ ** Moyenne: 125869.86**
 
 
-  "Mediane: 158610"
+ ** Mediane: 158610**
 
 
-  "Quartiles: 69032" 
+ **Quartiles: 69032**
 
-  "Quartiles: 158610"
+  **Quartiles: 158610**
 
-  "Quartiles: 161393"
-
-
-  "Interquartile: 92361"
+  **Quartiles: 161393**
 
 
-  "Ecart type: 44242.383"
+  **Interquartile: 92361**
 
 
-  "Le salaire des autres genres qui se répète le plus souvent est : 158966"
+  **Ecart type: 44242.383**
+
+
+  **Le salaire des autres genres qui se répète le plus souvent est : 158966**
 
 **Commentaire**
   
