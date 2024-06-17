@@ -1,22 +1,21 @@
-1.1
-
+**Question1.1**
 
 
 <img src="./img/1.1.PNG"></div>
 
 
-1.2
+**Question1.2**
 
 
 <img src="./img/1.2.PNG"></div>
 
 
 
-1.3:
+**Question1.3**
 
 <img src="./img/1.3.PNG"></div>
 
-1.4
+**Question1.4**
 
 <img src="./img/1.4.PNG"></div>
 
@@ -24,7 +23,7 @@
 
 
 
-1.5:
+**Question1.5**
 
 | Niveau      |  Âge moyen     |  Expérience moyenne      |  Salaire moyen     | 
 | :---        |   :---        |     :---        |   :---        | 
@@ -35,7 +34,7 @@
 
 
 
-1.6:
+**Question1.6**
 
 | Genre     |  Âge moyen     |  Expérience moyenne      |  Salaire moyen     | 
 | :---        |   :---        |     :---        |   :---        | 
