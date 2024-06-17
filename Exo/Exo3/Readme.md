@@ -159,6 +159,7 @@ disp("Min: " + string(min_male_salaire));
 
   "Le salaire des autres genres qui se répète le plus souvent est : 158966"
 
+**Commentaire**
   
 1. Disparité des Salaires :
 
