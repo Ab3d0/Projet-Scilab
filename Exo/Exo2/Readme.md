@@ -25,7 +25,9 @@
   **"La médiane de l âge est : 32"**
 
   **"Les quartiles de l âge sont : 28"**
+
   **"Les quartiles de l âge sont : 32"**
+
   **"Les quartiles de l âge sont : 38"**
 
 
@@ -59,7 +61,9 @@
 
 
   **"Les quartiles de l expérience sont : 3"**
+
   **"Les quartiles de l expérience sont : 7"**
+  
   **"Les quartiles de l expérience sont : 12"**
 
 
