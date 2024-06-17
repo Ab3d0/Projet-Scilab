@@ -122,7 +122,8 @@ disp("Min: " + string(min_male_salaire));
 
 **Other**
 
- 
+ <img src="./img/3.4Other.PNG"></div>
+
 
  disp("Min: " + string(min_other_salaire));
 
