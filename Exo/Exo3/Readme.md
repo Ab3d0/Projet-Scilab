@@ -46,3 +46,4 @@ Nous n'avons pas réussi
 
   **Boite à moustache**
 
+<img src="./img/3.3.PNG"></div>
