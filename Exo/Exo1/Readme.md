@@ -37,8 +37,8 @@
 
 1.6:
 
-|div('|                     | Salaire moyen | Âge moyen | Expérience moyenne |\n');|
-|div('|---------------------|---------------|-----------|--------------------|\n');|
-|div('| Femmes              | %.2f          | %.2f      | %.2f               |\n', moyenne_salaire_femmes, moyenne_age_femmes, moyenne_experience_femmes);
-|div('| Hommes              | %.2f          | %.2f      | %.2f               |\n',moyenne_salaire_hommes, moyenne_age_hommes, moyenne_experience_hommes);
-|div('| Non-binaires        | %.2f          | %.2f      | %.2f               |\n', moyenne_salaire_other, moyenne_age_other, moyenne_experience_other);
+| Genre     |  Âge moyen     |  Expérience moyenne      |  Salaire moyen     | 
+| :---        |   :---        |     :---        |   :---        | 
+| Homme |     34.41  |                 8.62 |      125869.86
+| Femme |    32.63 |               7.42   |      107889
+| Other |  39.60 |                 9.65 |    125869.86
