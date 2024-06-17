@@ -36,9 +36,12 @@
 
 
 1.6:
-
-|div('|                     | Salaire moyen | Âge moyen | Expérience moyenne |\n');|
-|div('|---------------------|---------------|-----------|--------------------|\n');|
-|div('| Femmes              | %.2f          | %.2f      | %.2f               |\n', moyenne_salaire_femmes, moyenne_age_femmes, moyenne_experience_femmes);
-|div('| Hommes              | %.2f          | %.2f      | %.2f               |\n',moyenne_salaire_hommes, moyenne_age_hommes, moyenne_experience_hommes);
-|div('| Non-binaires        | %.2f          | %.2f      | %.2f               |\n', moyenne_salaire_other, moyenne_age_other, moyenne_experience_other);
+% Générer le tableau au format Markdown
+markdown_table = '| Groupe         | Salaire moyen | Âge moyen | Expérience moyenne |\n';
+markdown_table = [markdown_table '|:---------------|--------------:|---------:|-------------------:|\n'];
+markdown_table = [markdown_table sprintf('| Femmes         | %.2f          | %.2f     | %.2f                |\n', ...
+    moyenne_salaire_femmes, moyenne_age_femmes, moyenne_experience_femmes)];
+markdown_table = [markdown_table sprintf('| Hommes         | %.2f          | %.2f     | %.2f                |\n', ...
+    moyenne_salaire_hommes, moyenne_age_hommes, moyenne_experience_hommes)];
+markdown_table = [markdown_table sprintf('| Non-binaires   | %.2f          | %.2f     | %.2f                |\n', ...
+    moyenne_salaire_other, moyenne_age_other, moyenne_experience_other)];
