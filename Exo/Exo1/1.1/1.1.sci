@@ -4,10 +4,10 @@ genres = data(:, 3);
 
 male_count = sum(genres == "Male");
 female_count = sum(genres == "Female");
-other_count = sum(genres == “Other”);
+other_count = sum(genres == "Other");
 
 counts = [male_count, female_count, other_count];
-labels = ["Male", "Female", “Other”];
+labels = ["Male", "Female", "Other"];
 
 // Calculer les pourcentages
 total = male_count + female_count + other_count;
