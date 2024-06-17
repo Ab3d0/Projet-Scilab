@@ -1,5 +1,14 @@
-Question 3.1
+**Question 3.1**
 
+<img src="./img/3.1.PNG"></div>
+
+
+**Question 3.2**
+
+
+Nous n'avons pas réussi 
+
+**Question 3.3**
 
 > disp("Min salaire : " + string(min_salaire));
 
