@@ -111,10 +111,10 @@ Nous n'avons pas réussi
   **Max: 166109**
 
 
- ** Moyenne: 125869.86**
+ **Moyenne: 125869.86**
 
 
- ** Mediane: 158610**
+ **Mediane: 158610**
 
 
  **Quartiles: 69032**
