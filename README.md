@@ -20,7 +20,7 @@ Le niveau d'éducation est codé par un entier :
 
 # Exercices et questions : 
 
-## [EXO 1](./EXO1/ "Exercice 1")
+## [EXO 1](./exo1/ "Exercice 1")
 1. Donnez sous forme de camembert la répartition des genres.
 2. Donnez sous forme d'histogramme la répartition des niveaux d'études, suivants le genre.
 3. Donnez sous forme d'histogramme, les effectifs des 10 professions les plus représentées.
