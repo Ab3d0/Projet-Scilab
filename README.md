@@ -53,8 +53,8 @@ Le niveau d'éducation est codé par un entier :
 
 ## Auteurs
 
-- Moncef STITI : [@stiti](https://grond.iut-fbleau.fr/stiti)
-- Marco ORFAO : [@orfao](https://grond.iut-fbleau.fr/orfao)
+- Abed BRIDJA : [@bridja](https://grond.iut-fbleau.fr/bridja)
+- Dimitri SOLAR : [@solar](https://grond.iut-fbleau.fr/solar)
 
 ## Professeur
 
